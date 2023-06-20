@@ -201,10 +201,14 @@
               left: 0px;
             }
 
-              #prof{
+            #prof{
               margin-top: 20px;
               font-size: 10px;
-              }
+            }
+            
+            #prof1{
+              font-size: 10px;
+            }
             
             .source{
               position: absolute;
