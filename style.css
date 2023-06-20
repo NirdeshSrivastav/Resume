@@ -200,11 +200,16 @@
               top: 470px;
               left: 0px;
             }
+
+              #prof{
+              margin-top: 20px;
+              font-size: 10px;
+              }
             
             .source{
               position: absolute;
               top: 580;
-              left:25px;
+              left:20px;
             }
             
             #code{
