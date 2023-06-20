@@ -1,0 +1,215 @@
+
+            *{
+                margin:0px;
+                padding: 0px;
+            }
+            
+            body{
+                border:2px solid gray;
+                margin-top: 50px;
+                width:400px;
+                height:600px;
+            }
+            
+             
+            
+            .left{
+              background-color:rgb(4, 57, 74) ;
+                
+                height:600;
+                width:160;
+                color: white;
+                
+            }
+            
+            #profile ul li img{
+              border-radius: 50px;
+              margin-top: 20px;
+              margin-left: 25px;
+              
+            }
+            
+            #name{
+              
+              font-size: 10px;
+              font-weight: 200px;
+              text-align: center;
+            }
+            
+            #proffession{
+              
+              font-size: 7px;
+              text-align: center;
+            }
+            
+           
+            
+            .line{
+              text-align: center;
+            }
+            
+            .para{
+              font-size: 10px;
+              margin-top: 10px;
+              margin-left: 20px;
+              margin-bottom: 5px;
+            }
+            
+            .contact table tr td i{
+               color: cyan;
+             }
+             
+             
+             .contact table{
+               color: white;
+               font-size: 10px;
+               margin-left: 25px;
+             }
+             
+             .data{
+               margin-left: 5px;
+             }
+             
+             .data a{
+               
+               color: green;
+             }
+            
+ 
+            
+            .education{
+              margin-top: 20px;
+            }
+            
+            .edu{
+              font-size: 10px;
+              margin-top: 30px;
+              margin-left: 20px;
+            }
+            
+            .education ul li{
+              font-size: 10px;
+              list-style: none;
+              margin-bottom: 5px;
+              margin-left: 25px;
+              
+            }
+            
+            .duration{
+              font-style: 5px;
+              color: cyan;
+              text-shadow: 2px 2px 2px lightslategray;
+            }
+            
+            .content{
+              font-weight: bold;
+            }
+            
+            .uni{
+              font-size: 5px;
+              font-weight: 200;
+             }
+             
+             .language p{
+               font-size: 10px;
+              margin-top: 10px;
+              margin-left: 20px;
+              font-weight: bold;
+             }
+             
+             .language ul li{
+              font-size: 10px;
+              list-style: none;
+              list-style-type: circle;
+              margin-left: 40px;
+             }
+             
+             
+             .right{
+               
+               position: absolute;
+               top:50;
+               
+                width: 238px;
+                height: 600px;
+                margin-top: 0px;
+                margin-left: 160;
+                
+             }
+             
+             .profile{
+               position: absolute;
+               top:20px;
+               left:20px;
+             }
+             
+             .head{
+               col or:rgb(49, 51, 54);
+               color:rgb(4,57,74);
+               font-weight: bold;
+             }
+            .info{
+              font-size: 8px;
+              font-weight: 400;
+            }
+            
+            .strength{
+                margin-top: 130px;
+                margin-left: 20px;
+            }
+            
+            .projects{
+              margin-top: 10px;
+              margin-left: 20px;
+            }
+            
+            .head{
+              font-size: 20px;
+              font-weight: bold;
+            }
+            
+            .head1{
+              font-size: 15px;
+              font-weight: bold;
+            }
+            
+            .info{
+              font-style: italic;
+            }
+            
+            .host{
+              font-size: 10px;
+              font-family:serif;
+            }
+            
+            .projects ul li{
+              margin: 5px;
+            }
+            
+            .tech{
+              margin-left:25px;
+            }
+            
+            .head3{
+              color: black;
+              font-size: 1px;
+            
+            }
+            .tech{
+              position: absolute;
+              top: 470px;
+              left: 0px;
+            }
+            
+            .source{
+              position: absolute;
+              top: 580;
+              left:25px;
+            }
+            
+            #code{
+              font-size: 10px;
+              font-weight: bold;
+            }
+
+        
